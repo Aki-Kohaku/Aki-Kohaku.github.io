@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "琥珀咖啡屋 • All posts by \"詩\" category",
+    "description": "",
+    "home_page_url": "https://aki-kohaku.github.io",
+    "items": [
+        {
+            "id": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/",
+            "url": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/",
+            "title": "鏡子",
+            "date_published": "2023-06-11T17:06:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"櫻花樹下\"\n\tartist=\"張敬軒\"\n\turl=\"https://drive.google.com/uc?export=download&id=15qFuD59VjEIHN4JpPqoryVTIdRvCxfM6\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1OKRu_ulmLRlLk2W-h2xA_O523_MfCAHA\"><br>\n</meting-js></p>\n<p>討厭別人和討厭自己<br>\n有時候是同義的<br>\n人就像一面鏡子<br>\n妒忌、無能、幼稚<br>\n我就像看到了自己<br>\n所以才會拼命地逃離</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
+            "id": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E6%B1%82%E5%A9%9A/",
+            "url": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E6%B1%82%E5%A9%9A/",
+            "title": "求婚",
+            "date_published": "2023-06-11T16:18:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"明日、僕は君に会いに行く\"\n\tartist=\"ワカバ\"\n\turl=\"https://drive.google.com/uc?export=download&id=14wT3nfzc5gJ6FIHJJdUW9o3543HQ-pfo\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1ewaxY6S6viK4PA7xSo9x55D6wSYbIUN3\"><br>\n</meting-js></p>\n<p>跨上機車<br>\n捧起花束<br>\n手握戒指<br>\n如同勇者一般<br>\n去吧<br>\n去吧<br>\n開始屬於我的戰鬥</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
+            "id": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/",
+            "url": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/",
+            "title": "失眠夜",
+            "date_published": "2023-06-11T15:56:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"愛得太遲\"\n\tartist=\"古巨基\"\n\turl=\"https://drive.google.com/uc?export=download&id=1kB0EXe-RkcHh3zGZp1bvCpu312RiNhBO\"\n\tcover=\"https://drive.google.com/uc?export=download&id=15t8rpAHc65LiuYwm1LnPAlZwGj2fe691\"><br>\n</meting-js></p>\n<p>因為你，我總是睡不着覺<br>\n思念的火苗愈燒愈旺<br>\n照亮了昏暗的思緒<br>\n雄雄的妒火蔓延全身<br>\n燒得我痛不欲生<br>\n唉，又是一個單相思的不眠夜</p>\n",
+            "tags": [
+                "詩"
+            ]
+        }
+    ]
+}
