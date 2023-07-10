@@ -5,6 +5,16 @@
     "home_page_url": "https://aki-kohaku.github.io",
     "items": [
         {
+            "id": "https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/",
+            "url": "https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/",
+            "title": "沒有心的怪物",
+            "date_published": "2023-07-10T13:59:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"名前のない怪物\"\n\tartist=\"EGOIST\"\n\turl=\"https://drive.google.com/uc?export=download&id=1GZpDnTKCMxBmDInN_yzGZHv3V5mWpbgw\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1Ha0743MI3n1l_gMwhQhl8X3Oznh2TJpQ\"><br>\n</meting-js></p>\n<p>沒有深刻的愛<br>\n沒有瘋狂的恨<br>\n沒有心的怪物<br>\n沒有花的人生</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
             "id": "https://aki-kohaku.github.io/2023/07/05/%E6%95%A3%E6%96%87/%E5%BF%B5%E8%88%8A/",
             "url": "https://aki-kohaku.github.io/2023/07/05/%E6%95%A3%E6%96%87/%E5%BF%B5%E8%88%8A/",
             "title": "念舊",
@@ -30,16 +40,6 @@
             "title": "鏡子",
             "date_published": "2023-06-11T17:06:00.000Z",
             "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"櫻花樹下\"\n\tartist=\"張敬軒\"\n\turl=\"https://drive.google.com/uc?export=download&id=15qFuD59VjEIHN4JpPqoryVTIdRvCxfM6\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1OKRu_ulmLRlLk2W-h2xA_O523_MfCAHA\"><br>\n</meting-js></p>\n<p>討厭別人和討厭自己<br>\n有時候是同義的<br>\n人就像一面鏡子<br>\n妒忌、無能、幼稚<br>\n我就像看到了自己<br>\n所以才會拼命地逃離</p>\n",
-            "tags": [
-                "詩"
-            ]
-        },
-        {
-            "id": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E6%B1%82%E5%A9%9A/",
-            "url": "https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E6%B1%82%E5%A9%9A/",
-            "title": "求婚",
-            "date_published": "2023-06-11T16:18:00.000Z",
-            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"明日、僕は君に会いに行く\"\n\tartist=\"ワカバ\"\n\turl=\"https://drive.google.com/uc?export=download&id=14wT3nfzc5gJ6FIHJJdUW9o3543HQ-pfo\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1ewaxY6S6viK4PA7xSo9x55D6wSYbIUN3\"><br>\n</meting-js></p>\n<p>跨上機車<br>\n捧起花束<br>\n手握戒指<br>\n如同勇者一般<br>\n去吧<br>\n去吧<br>\n開始屬於我的戰鬥</p>\n",
             "tags": [
                 "詩"
             ]

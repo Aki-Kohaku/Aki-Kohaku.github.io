@@ -3,9 +3,32 @@
     <id>https://aki-kohaku.github.io</id>
     <title>琥珀咖啡屋 • Posts by &#34;詩&#34; category</title>
     <link href="https://aki-kohaku.github.io" />
-    <updated>2023-06-11T17:06:00.000Z</updated>
-    <category term="詩" />
+    <updated>2023-07-10T13:59:00.000Z</updated>
     <category term="散文" />
+    <category term="詩" />
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/</id>
+        <title>沒有心的怪物</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- require MetingJS --&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+	name=&#34;名前のない怪物&#34;
+	artist=&#34;EGOIST&#34;
+	url=&#34;https://drive.google.com/uc?export=download&amp;id=1GZpDnTKCMxBmDInN_yzGZHv3V5mWpbgw&#34;
+	cover=&#34;https://drive.google.com/uc?export=download&amp;id=1Ha0743MI3n1l_gMwhQhl8X3Oznh2TJpQ&#34;&gt;&lt;br&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;p&gt;沒有深刻的愛&lt;br&gt;
+沒有瘋狂的恨&lt;br&gt;
+沒有心的怪物&lt;br&gt;
+沒有花的人生&lt;/p&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-10T13:59:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/</id>
         <title>鏡子</title>
@@ -30,32 +53,6 @@
 </content>
         <category term="詩" />
         <updated>2023-06-11T17:06:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E6%B1%82%E5%A9%9A/</id>
-        <title>求婚</title>
-        <link rel="alternate" href="https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E6%B1%82%E5%A9%9A/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
-&lt;!-- require MetingJS --&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
-&lt;p&gt;&lt;meting-js
-	name=&#34;明日、僕は君に会いに行く&#34;
-	artist=&#34;ワカバ&#34;
-	url=&#34;https://drive.google.com/uc?export=download&amp;id=14wT3nfzc5gJ6FIHJJdUW9o3543HQ-pfo&#34;
-	cover=&#34;https://drive.google.com/uc?export=download&amp;id=1ewaxY6S6viK4PA7xSo9x55D6wSYbIUN3&#34;&gt;&lt;br&gt;
-&lt;/meting-js&gt;&lt;/p&gt;
-&lt;p&gt;跨上機車&lt;br&gt;
-捧起花束&lt;br&gt;
-手握戒指&lt;br&gt;
-如同勇者一般&lt;br&gt;
-去吧&lt;br&gt;
-去吧&lt;br&gt;
-開始屬於我的戰鬥&lt;/p&gt;
-</content>
-        <category term="詩" />
-        <updated>2023-06-11T16:18:00.000Z</updated>
     </entry>
     <entry>
         <id>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/</id>
