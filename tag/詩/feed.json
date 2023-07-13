@@ -5,6 +5,16 @@
     "home_page_url": "https://aki-kohaku.github.io",
     "items": [
         {
+            "id": "https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/",
+            "url": "https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/",
+            "title": "橋",
+            "date_published": "2023-07-13T22:27:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"櫻花樹下\"\n\tartist=\"張敬軒\"\n\turl=\"https://drive.google.com/uc?export=download&id=1LJZdWR8Ycuhqa6NPxQu2HG641h9ge6UV\"\n\tcover=\"https://drive.google.com/uc?export=download&id=122jYydCbuD_5x7J1GLmWXk3Ho58AMjva\"><br>\n</meting-js></p>\n<p>寂寞的夜裏<br>\n突然想起你了<br>\n你在幹甚麼呢<br>\n你有在想我嗎<br>\n如果思念能搭成橋<br>\n會是雙向通行的嗎</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
             "id": "https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/",
             "url": "https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/",
             "title": "沒有心的怪物",
