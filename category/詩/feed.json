@@ -5,6 +5,16 @@
     "home_page_url": "https://aki-kohaku.github.io",
     "items": [
         {
+            "id": "https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/",
+            "url": "https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/",
+            "title": "燈塔",
+            "date_published": "2023-07-14T11:16:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"一番の宝物\"\n\tartist=\"Girls Dead Monster\"\n\turl=\"https://drive.google.com/uc?export=download&id=1ooBKcLgb8kvC_UhLOwbUSqGZaTZ9hk9a\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1ZffU1Sqz7aKyqkoj6ci_z4Q6R7AlQR-h\"><br>\n</meting-js></p>\n<p>我的媽媽是一座燈塔<br>\n每晚都呆呆地杵在門前<br>\n等待夜歸的兒子回家</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
             "id": "https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/",
             "url": "https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/",
             "title": "橋",
