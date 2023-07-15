@@ -5,10 +5,34 @@
         <link>https://aki-kohaku.github.io</link>
         <description></description>
         <language>zh-TW</language>
-        <pubDate>Fri, 14 Jul 2023 12:16:00 +0100</pubDate>
-        <lastBuildDate>Fri, 14 Jul 2023 12:16:00 +0100</lastBuildDate>
+        <pubDate>Sat, 15 Jul 2023 14:27:00 +0100</pubDate>
+        <lastBuildDate>Sat, 15 Jul 2023 14:27:00 +0100</lastBuildDate>
         <category>詩</category>
         <category>散文</category>
+        <item>
+            <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/</guid>
+            <title>戀夢</title>
+            <link>https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/</link>
+            <category>詩</category>
+            <pubDate>Sat, 15 Jul 2023 14:27:00 +0100</pubDate>
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- require MetingJS --&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+	name=&#34;恋をしたから&#34;
+	artist=&#34;あいみょん&#34;
+	url=&#34;https://drive.google.com/uc?export=download&amp;id=1o5FlXeDIwfz_RrcY5yzrW5RwNvFIj4Es&#34;
+	cover=&#34;https://drive.google.com/uc?export=download&amp;id=1Vht_IAAyXBG836zsH_XgptGd9tWxU0BT&#34;&gt;&lt;br&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;p&gt;和你在一起的時間&lt;br&gt;
+是那麼的短 那麼的美&lt;br&gt;
+就像是一轉即逝的美夢&lt;br&gt;
+如果向神明祈禱的話&lt;br&gt;
+衪能讓我永遠不會醒來嗎&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/</guid>
             <title>燈塔</title>
