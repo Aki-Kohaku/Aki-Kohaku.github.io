@@ -5,6 +5,16 @@
     "home_page_url": "https://aki-kohaku.github.io",
     "items": [
         {
+            "id": "https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/",
+            "url": "https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/",
+            "title": "淚",
+            "date_published": "2023-07-27T13:05:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"心做し\"\n\tartist=\"majiko\"\n\turl=\"https://drive.google.com/uc?export=download&id=1rJ9GNJYVrxDtEsK4dJ66KjZF_Bl-mkNO\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1wl1Zcm6E9xJ8RvlZeKDFRtpvkx1EvEEP\"><br>\n</meting-js></p>\n<p>淚水落在身上<br>\n打濕了心房<br>\n也模糊了邊界<br>\n喜歡、悲傷、討厭<br>\n經由淚水混雜在一起<br>\n讓我分不清自己的思緒</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
             "id": "https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/",
             "url": "https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/",
             "title": "戀夢",

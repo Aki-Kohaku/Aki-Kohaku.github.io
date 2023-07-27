@@ -3,9 +3,34 @@
     <id>https://aki-kohaku.github.io</id>
     <title>琥珀咖啡屋</title>
     <link href="https://aki-kohaku.github.io" />
-    <updated>2023-07-15T13:27:00.000Z</updated>
+    <updated>2023-07-27T13:05:00.000Z</updated>
     <category term="詩" />
     <category term="散文" />
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/</id>
+        <title>淚</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- require MetingJS --&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+	name=&#34;心做し&#34;
+	artist=&#34;majiko&#34;
+	url=&#34;https://drive.google.com/uc?export=download&amp;id=1rJ9GNJYVrxDtEsK4dJ66KjZF_Bl-mkNO&#34;
+	cover=&#34;https://drive.google.com/uc?export=download&amp;id=1wl1Zcm6E9xJ8RvlZeKDFRtpvkx1EvEEP&#34;&gt;&lt;br&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;p&gt;淚水落在身上&lt;br&gt;
+打濕了心房&lt;br&gt;
+也模糊了邊界&lt;br&gt;
+喜歡、悲傷、討厭&lt;br&gt;
+經由淚水混雜在一起&lt;br&gt;
+讓我分不清自己的思緒&lt;/p&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-27T13:05:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/</id>
         <title>戀夢</title>
