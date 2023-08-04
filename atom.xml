@@ -3,14 +3,49 @@
     <id>https://aki-kohaku.github.io</id>
     <title>琥珀咖啡屋</title>
     <link href="https://aki-kohaku.github.io" />
-    <updated>2023-08-02T20:25:00.000Z</updated>
-    <category term="散文" />
-    <category term="詩" />
+    <updated>2023-08-04T14:03:00.000Z</updated>
+    <category term="隨筆" />
+    <category term="漫才" />
     <category term="原創曲" />
+    <category term="詩" />
     <entry>
-        <id>https://aki-kohaku.github.io/2023/08/02/%E6%95%A3%E6%96%87/%E6%9C%80%E8%A8%8E%E5%8E%AD%E7%9A%84%E4%BD%9C%E5%AE%B6/</id>
+        <id>https://aki-kohaku.github.io/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/</id>
+        <title>朋友漫才</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- require MetingJS --&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+	name=&#34;蒼い蝶&#34;
+	artist=&#34;蒼月エリ&#34;
+	url=&#34;https://drive.google.com/uc?export=download&amp;id=15BRhqkk61ixVGmlps_80lND6Iw8tGfxs&#34;
+	cover=&#34;https://drive.google.com/uc?export=download&amp;id=1DZ5Owq9MynBZcZK-GW_GgTpl8LtaYMDN&#34;&gt;&lt;br&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;p&gt;A︰說起來，我其實很不喜歡寫漫才。&lt;br&gt;
+B︰突然你在說甚麼呢！沒有人想知道你的事情好嗎？ (っ・Д・) っ&lt;br&gt;
+ A︰好好聽我說！這是和你性命攸關的大事！&lt;br&gt;
+B︰欸欸欸！？為甚麼你的喜好會關乎到我的性命呀！？根本是亳無關聯的事情吧！ Σ(ﾟдﾟ)&lt;br&gt;
+ A︰其實…… 我一向沒有甚麼朋友…… (｡í _ ì｡)&lt;br&gt;
+ B︰這種一看就知道的事情你就不用特地說出來吧！你還是快點說正題吧！這不是關係到我性命的事情嗎！快說呀！&lt;br&gt;
+A︰就是因為沒有甚麼朋友，我才不喜歡寫漫才的……&lt;br&gt;
+B︰這又有甚麼關係呢？你快點說呀，別光吊人胃口！ (#･Д･)ﾉ&lt;br&gt;
+A︰漫才不就是兩個人在一唱一和地對話嗎？如果讓我來寫漫才的話，看起來就像是因為沒有朋友，所以自己一個人在自言自語的可憐蟲了…… 嗚嗚…… 嗚嗚嗚……・º・(˚ ˃̣̣̥⌓˂̣̣̥)・º・˚&lt;br&gt;
+B︰別哭呀！你不是還有我這個朋友嗎？…… 幹…… 幹嘛突然用一副那麼悲痛的表情看着我……？ ಠ_ಠ&lt;br&gt;
+A︰你難道沒意識到，剛才我們在幹甚麼嗎？&lt;br&gt;
+B︰不就是在聊天嗎？不…… 難道…… 是在說漫才嗎？難…… 難道…… (゜ロ゜)&lt;br&gt;
+ A︰沒有錯！剛才我們在說的，就是我寫出來的漫才劇本！而你！就是我為了寫漫才而幻想出來的，幻想朋友！ (｡・̀ᴗ-)✧&lt;br&gt;
+B︰呀呀呀呀！！！我不相信！！！這不是真的！！！&lt;/p&gt;
+</content>
+        <category term="隨筆" />
+        <category term="漫才" />
+        <updated>2023-08-04T14:03:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/08/02/%E9%9A%A8%E7%AD%86/%E6%9C%80%E8%A8%8E%E5%8E%AD%E7%9A%84%E4%BD%9C%E5%AE%B6/</id>
         <title>最討厭的作家</title>
-        <link rel="alternate" href="https://aki-kohaku.github.io/2023/08/02/%E6%95%A3%E6%96%87/%E6%9C%80%E8%A8%8E%E5%8E%AD%E7%9A%84%E4%BD%9C%E5%AE%B6/"/>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/08/02/%E9%9A%A8%E7%AD%86/%E6%9C%80%E8%A8%8E%E5%8E%AD%E7%9A%84%E4%BD%9C%E5%AE%B6/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
@@ -31,7 +66,7 @@
 &lt;p&gt;果然，討厭和喜歡其實是同一件事情。正因為我喜歡他，才會去在意他身上的種種缺點，怒其不爭。這個角度看來，作為唯一一位被我討厭的小說家，他能同時也是離「我最喜歡作家」寶座最近的人也說不定。&lt;/p&gt;
 &lt;p&gt;果然張雨生的歌說得對，愛我的人傷我最深。&lt;/p&gt;
 </content>
-        <category term="散文" />
+        <category term="隨筆" />
         <updated>2023-08-02T20:25:00.000Z</updated>
     </entry>
     <entry>
@@ -242,9 +277,9 @@
         <updated>2023-07-10T13:59:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://aki-kohaku.github.io/2023/07/05/%E6%95%A3%E6%96%87/%E5%BF%B5%E8%88%8A/</id>
+        <id>https://aki-kohaku.github.io/2023/07/05/%E9%9A%A8%E7%AD%86/%E5%BF%B5%E8%88%8A/</id>
         <title>念舊</title>
-        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/05/%E6%95%A3%E6%96%87/%E5%BF%B5%E8%88%8A/"/>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/05/%E9%9A%A8%E7%AD%86/%E5%BF%B5%E8%88%8A/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
@@ -302,13 +337,13 @@
 &lt;p&gt;「真是廢話。」我看向她笑道。&lt;/p&gt;
 &lt;p&gt;「我這不是還愛着小時候喜歡上的女孩嗎？」&lt;/p&gt;
 </content>
-        <category term="散文" />
+        <category term="隨筆" />
         <updated>2023-07-05T20:05:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://aki-kohaku.github.io/2023/06/23/%E6%95%A3%E6%96%87/%E6%9C%80%E5%8B%95%E4%BA%BA%E7%9A%84%E6%83%85%E8%A9%B1/</id>
+        <id>https://aki-kohaku.github.io/2023/06/23/%E9%9A%A8%E7%AD%86/%E6%9C%80%E5%8B%95%E4%BA%BA%E7%9A%84%E6%83%85%E8%A9%B1/</id>
         <title>最動人的情話</title>
-        <link rel="alternate" href="https://aki-kohaku.github.io/2023/06/23/%E6%95%A3%E6%96%87/%E6%9C%80%E5%8B%95%E4%BA%BA%E7%9A%84%E6%83%85%E8%A9%B1/"/>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/06/23/%E9%9A%A8%E7%AD%86/%E6%9C%80%E5%8B%95%E4%BA%BA%E7%9A%84%E6%83%85%E8%A9%B1/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
@@ -375,7 +410,7 @@
 &lt;p&gt;「沒有甚麼原因，因為我愛你。」&lt;/p&gt;
 &lt;p&gt;果然，要傳達愛意，只需要最簡單的句子就好。&lt;/p&gt;
 </content>
-        <category term="散文" />
+        <category term="隨筆" />
         <updated>2023-06-23T12:13:00.000Z</updated>
     </entry>
     <entry>
@@ -429,9 +464,9 @@
         <updated>2023-06-11T15:56:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://aki-kohaku.github.io/2023/05/16/%E6%95%A3%E6%96%87/%E8%A8%8E%E5%8E%AD/</id>
+        <id>https://aki-kohaku.github.io/2023/05/16/%E9%9A%A8%E7%AD%86/%E8%A8%8E%E5%8E%AD/</id>
         <title>討厭</title>
-        <link rel="alternate" href="https://aki-kohaku.github.io/2023/05/16/%E6%95%A3%E6%96%87/%E8%A8%8E%E5%8E%AD/"/>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/05/16/%E9%9A%A8%E7%AD%86/%E8%A8%8E%E5%8E%AD/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
@@ -459,13 +494,13 @@
 &lt;p&gt;物體愈是緊密接觸，摩擦力愈大。這是連小學生都知道的道理。&lt;/p&gt;
 &lt;p&gt;那麼，從沒有和任何人摩擦的我，想必是和所有人都沒有靠近吧，那距離就像觀眾席和劇場後台之間一樣遙遠。&lt;/p&gt;
 </content>
-        <category term="散文" />
+        <category term="隨筆" />
         <updated>2023-05-16T20:09:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://aki-kohaku.github.io/2023/05/13/%E6%95%A3%E6%96%87/%E6%9C%80%E8%A8%8E%E5%8E%AD%E4%BD%A0%E4%BA%86/</id>
+        <id>https://aki-kohaku.github.io/2023/05/13/%E9%9A%A8%E7%AD%86/%E6%9C%80%E8%A8%8E%E5%8E%AD%E4%BD%A0%E4%BA%86/</id>
         <title>最討厭你了</title>
-        <link rel="alternate" href="https://aki-kohaku.github.io/2023/05/13/%E6%95%A3%E6%96%87/%E6%9C%80%E8%A8%8E%E5%8E%AD%E4%BD%A0%E4%BA%86/"/>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/05/13/%E9%9A%A8%E7%AD%86/%E6%9C%80%E8%A8%8E%E5%8E%AD%E4%BD%A0%E4%BA%86/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
@@ -520,7 +555,7 @@
 &lt;p&gt;這傢伙…… 肯定聽得一清二楚吧！&lt;/p&gt;
 &lt;p&gt;「我是說…… 我最討厭你啦！」我不敢正面望向她，只好大聲地向着太陽喊道。&lt;/p&gt;
 </content>
-        <category term="散文" />
+        <category term="隨筆" />
         <updated>2023-05-13T18:41:00.000Z</updated>
     </entry>
 </feed>
