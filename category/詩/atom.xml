@@ -1,23 +1,18 @@
 <?xml version="1.0"?>
-<rss version="2.0">
-    <channel>
-        <title>琥珀咖啡屋 • Posts by &#34;詩&#34; category</title>
-        <link>https://aki-kohaku.github.io</link>
-        <description></description>
-        <language>zh-TW</language>
-        <pubDate>Wed, 09 Aug 2023 00:25:00 +0800</pubDate>
-        <lastBuildDate>Wed, 09 Aug 2023 00:25:00 +0800</lastBuildDate>
-        <category>原創曲</category>
-        <category>詩</category>
-        <category>隨筆</category>
-        <category>漫才</category>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/</guid>
-            <title>無心之言</title>
-            <link>https://aki-kohaku.github.io/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/</link>
-            <category>詩</category>
-            <pubDate>Wed, 09 Aug 2023 00:25:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aki-kohaku.github.io</id>
+    <title>琥珀咖啡屋 • Posts by &#34;詩&#34; category</title>
+    <link href="https://aki-kohaku.github.io" />
+    <updated>2023-08-08T16:25:00.000Z</updated>
+    <category term="原創曲" />
+    <category term="詩" />
+    <category term="隨筆" />
+    <category term="漫才" />
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/</id>
+        <title>無心之言</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -32,15 +27,15 @@
 如同透明的箭矢&lt;br&gt;
 一字一字地刺進我心&lt;br&gt;
 而你卻渾然不知&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/</guid>
-            <title>封心</title>
-            <link>https://aki-kohaku.github.io/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/</link>
-            <category>詩</category>
-            <pubDate>Sun, 06 Aug 2023 15:43:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-08-08T16:25:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/</id>
+        <title>封心</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -58,15 +53,15 @@
 但這只是途勞無功&lt;br&gt;
 因為我的心早已穿越牆壁&lt;br&gt;
 飄到有你的地方&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/</guid>
-            <title>淚</title>
-            <link>https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/</link>
-            <category>詩</category>
-            <pubDate>Thu, 27 Jul 2023 14:05:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-08-06T07:43:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/</id>
+        <title>淚</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/27/%E8%A9%A9/%E6%B7%9A/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -83,15 +78,15 @@
 喜歡、悲傷、討厭&lt;br&gt;
 經由淚水混雜在一起&lt;br&gt;
 讓我分不清自己的思緒&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/</guid>
-            <title>戀夢</title>
-            <link>https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/</link>
-            <category>詩</category>
-            <pubDate>Sat, 15 Jul 2023 14:27:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-27T06:05:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/</id>
+        <title>戀夢</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -107,15 +102,15 @@
 就像是一轉即逝的美夢&lt;br&gt;
 如果向神明祈禱的話&lt;br&gt;
 衪能讓我永遠不會醒來嗎&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/</guid>
-            <title>燈塔</title>
-            <link>https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/</link>
-            <category>詩</category>
-            <pubDate>Fri, 14 Jul 2023 12:16:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-15T06:27:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/</id>
+        <title>燈塔</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -129,15 +124,15 @@
 &lt;p&gt;我的媽媽是一座燈塔&lt;br&gt;
 每晚都呆呆地杵在門前&lt;br&gt;
 等待夜歸的兒子回家&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/</guid>
-            <title>橋</title>
-            <link>https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/</link>
-            <category>詩</category>
-            <pubDate>Thu, 13 Jul 2023 23:27:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-14T04:16:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/</id>
+        <title>橋</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -154,15 +149,15 @@
 你有在想我嗎&lt;br&gt;
 如果思念能搭成橋&lt;br&gt;
 會是雙向通行的嗎&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/</guid>
-            <title>沒有心的怪物</title>
-            <link>https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/</link>
-            <category>詩</category>
-            <pubDate>Mon, 10 Jul 2023 14:59:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-13T15:27:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/</id>
+        <title>沒有心的怪物</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -177,15 +172,15 @@
 沒有瘋狂的恨&lt;br&gt;
 沒有心的怪物&lt;br&gt;
 沒有花的人生&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/</guid>
-            <title>鏡子</title>
-            <link>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/</link>
-            <category>詩</category>
-            <pubDate>Sun, 11 Jun 2023 18:06:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-07-10T06:59:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/</id>
+        <title>鏡子</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -202,15 +197,15 @@
 妒忌、無能、幼稚&lt;br&gt;
 我就像看到了自己&lt;br&gt;
 所以才會拼命地逃離&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/</guid>
-            <title>失眠夜</title>
-            <link>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/</link>
-            <category>詩</category>
-            <pubDate>Sun, 11 Jun 2023 16:56:00 +0800</pubDate>
-            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+</content>
+        <category term="詩" />
+        <updated>2023-06-11T10:06:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/</id>
+        <title>失眠夜</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;!-- require MetingJS --&gt;
@@ -227,7 +222,8 @@
 雄雄的妒火蔓延全身&lt;br&gt;
 燒得我痛不欲生&lt;br&gt;
 唉，又是一個單相思的不眠夜&lt;/p&gt;
- ]]></description>
-        </item>
-    </channel>
-</rss>
+</content>
+        <category term="詩" />
+        <updated>2023-06-11T08:56:00.000Z</updated>
+    </entry>
+</feed>
