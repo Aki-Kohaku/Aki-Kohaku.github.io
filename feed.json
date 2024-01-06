@@ -5,6 +5,16 @@
     "home_page_url": "https://aki-kohaku.github.io",
     "items": [
         {
+            "id": "https://aki-kohaku.github.io/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/",
+            "url": "https://aki-kohaku.github.io/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/",
+            "title": "花園",
+            "date_published": "2024-01-06T17:37:00.000Z",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><!-- require APlayer -->\n<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css\">\n<script src=\"https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js\"></script>\n<!-- require MetingJS -->\n<script src=\"https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js\"></script>\n<p><meting-js\n\tname=\"花唄\"\n\tartist=\"GReeeeN\"\n\turl=\"https://drive.google.com/uc?export=download&id=1m6WWmzzh7s2E-n7XdBIEfwXCh2BewLyX\"\n\tcover=\"https://drive.google.com/uc?export=download&id=1aAEQIBllzHXKC3UxOrfI-RjoT8I4bEzh\"><br>\n</meting-js></p>\n<p>黃的、藍的、綠的、紅的<br>\n我帶得走一朵花<br>\n卻帶不走這一片美麗</p>\n",
+            "tags": [
+                "詩"
+            ]
+        },
+        {
             "id": "https://aki-kohaku.github.io/2023/10/01/%E9%9A%A8%E7%AD%86/%E3%80%8A%E5%AD%BF%E7%94%9F%E5%AD%90%E3%80%8B%E8%AE%80%E5%BE%8C%E6%84%9F%E2%80%94%E2%80%94%E8%83%83%E7%97%9B%EF%BC%8C%E7%B8%BD%E4%B9%8B%E5%B0%B1%E6%98%AF%E8%83%83%E7%97%9B/",
             "url": "https://aki-kohaku.github.io/2023/10/01/%E9%9A%A8%E7%AD%86/%E3%80%8A%E5%AD%BF%E7%94%9F%E5%AD%90%E3%80%8B%E8%AE%80%E5%BE%8C%E6%84%9F%E2%80%94%E2%80%94%E8%83%83%E7%97%9B%EF%BC%8C%E7%B8%BD%E4%B9%8B%E5%B0%B1%E6%98%AF%E8%83%83%E7%97%9B/",
             "title": "《孿生子》讀後感——胃痛，總之就是胃痛",
