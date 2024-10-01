@@ -1,0 +1,7 @@
+@font-face {
+  font-family: Naikai;
+  src: url("NaikaiFont-Regular.ttf");
+}
+p {
+  font-family: Naikai, serif;
+}

@@ -1,177 +1,135 @@
+<!DOCTYPE html><html lang="zh-TW" data-theme="light"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>橋 | 紅葉茶屋</title><noscript>開啟JavaScript才能訪問本站哦~</noscript><link rel="icon" href="/img/pwa/favicon.ico"><!-- index.css--><link rel="stylesheet" href="/css/index.css?v=2.0.12"><!-- inject head--><link rel="canonical" href="https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"><!-- aplayer--><!-- swiper--><!-- fancybox ui--><!-- katex--><!-- Open Graph--><meta name="description" content="寂寞的夜裏 突然想起你了 你在幹甚麼呢 你有在想我嗎 如果思念能搭成橋 會是雙向通行的嗎"><!-- pwa--><meta name="apple-mobile-web-app-capable" content="紅葉茶屋"><meta name="theme-color" content="var(--efu-main)"><meta name="apple-mobile-web-app-status-bar-style" content="var(--efu-main)"><link rel="bookmark" href="/img/pwa/favicon.ico"><link rel="apple-touch-icon" href="/img/pwa/favicon.ico" sizes="180x180"><script>console.log(' %c Solitude %c ' + '2.0.12' + ' %c https://github.com/everfu/hexo-theme-solitude',
+    'background:#35495e ; padding: 1px; border-radius: 3px 0 0 3px;  color: #fff',
+    'background:#ff9a9a ; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff',
+    'background:unset ; padding: 1px; border-radius: 0 3px 3px 0;  color: #fff')
+</script><script>(()=>{
+        const saveToLocal = {
+            set: function setWithExpiry(key, value, ttl) {
+                if (ttl === 0)
+                    return
+                const now = new Date()
+                const expiryDay = ttl * 86400000
+                const item = {
+                    value: value,
+                    expiry: now.getTime() + expiryDay
+                }
+                localStorage.setItem(key, JSON.stringify(item))
+            },
+            get: function getWithExpiry(key) {
+                const itemStr = localStorage.getItem(key)
 
+                if (!itemStr) {
+                    return undefined
+                }
+                const item = JSON.parse(itemStr)
+                const now = new Date()
 
+                if (now.getTime() > item.expiry) {
+                    localStorage.removeItem(key)
+                    return undefined
+                }
+                return item.value
+            }
+        };
+        window.utils = {
+            saveToLocal: saveToLocal,
+            getCSS: (url, id = false) => new Promise((resolve, reject) => {
+              const link = document.createElement('link')
+              link.rel = 'stylesheet'
+              link.href = url
+              if (id) link.id = id
+              link.onerror = reject
+              link.onload = link.onreadystatechange = function() {
+                const loadState = this.readyState
+                if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+                link.onload = link.onreadystatechange = null
+                resolve()
+              }
+              document.head.appendChild(link)
+            }),
+            getScript: (url, attr = {}) => new Promise((resolve, reject) => {
+              const script = document.createElement('script')
+              script.src = url
+              script.async = true
+              script.onerror = reject
+              script.onload = script.onreadystatechange = function() {
+                const loadState = this.readyState
+                if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+                script.onload = script.onreadystatechange = null
+                resolve()
+              }
 
+              Object.keys(attr).forEach(key => {
+                script.setAttribute(key, attr[key])
+              })
 
-<!DOCTYPE html>
-<html lang="zh-TW">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2">
-<meta name="theme-color" content="#FFF">
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
+              document.head.appendChild(script)
+            }),
+            addGlobalFn: (key, fn, name = false, parent = window) => {
+                const globalFn = parent.globalFn || {}
+                const keyObj = globalFn[key] || {}
 
-<link rel="icon" type="image/ico" sizes="32x32" href="/images/favicon.ico">
-  <meta http-equiv="Cache-Control" content="no-transform">
-  <meta http-equiv="Cache-Control" content="no-siteapp">
+                if (name && keyObj[name]) return
 
-<link rel="alternate" type="application/rss+xml" title="琥珀咖啡屋" href="https://aki-kohaku.github.io/rss.xml" />
-<link rel="alternate" type="application/atom+xml" title="琥珀咖啡屋" href="https://aki-kohaku.github.io/atom.xml" />
-<link rel="alternate" type="application/json" title="琥珀咖啡屋" href="https://aki-kohaku.github.io/feed.json" />
-
-<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Naikai:300,300italic,400,400italic,700,700italic%7CInconsolata:300,300italic,400,400italic,700,700italic&display=swap&subset=latin,latin-ext">
-
-<link rel="stylesheet" href="/css/app.css?v=0.2.5">
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9DGBLL587J"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-9DGBLL587J');
-</script>
-
-
-  
-  <meta name="keywords" content="詩" />
-
-
-<link rel="canonical" href="https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/">
-
-
-
-  <title>
-橋 - 詩 |
-琥珀咖啡屋</title>
-<meta name="generator" content="Hexo 6.3.0"></head>
-<body itemscope itemtype="http://schema.org/WebPage">
-  <div id="loading">
-    <div class="cat">
-      <div class="body"></div>
-      <div class="head">
-        <div class="face"></div>
-      </div>
-      <div class="foot">
-        <div class="tummy-end"></div>
-        <div class="bottom"></div>
-        <div class="legs left"></div>
-        <div class="legs right"></div>
-      </div>
-      <div class="paw">
-        <div class="hands left"></div>
-        <div class="hands right"></div>
-      </div>
-    </div>
-  </div>
-  <div id="container">
-    <header id="header" itemscope itemtype="http://schema.org/WPHeader">
-      <div class="inner">
-        <div id="brand">
-          <div class="pjax">
-          
-  <h1 itemprop="name headline">橋
-  </h1>
-  
-<div class="meta">
-  <span class="item" title="創建時間：2023-07-13 23:27:00">
-    <span class="icon">
-      <i class="ic i-calendar"></i>
-    </span>
-    <span class="text">發表於</span>
-    <time itemprop="dateCreated datePublished" datetime="2023-07-13T23:27:00+08:00">2023-07-13</time>
-  </span>
-  <span class="item" title="文章字數">
-    <span class="icon">
-      <i class="ic i-pen"></i>
-    </span>
-    <span class="text">文章字數</span>
-    <span>39</span>
-    <span class="text">字</span>
-  </span>
-  <span class="item" title="所需閱讀時間">
-    <span class="icon">
-      <i class="ic i-clock"></i>
-    </span>
-    <span class="text">所需閱讀時間</span>
-    <span>1 分鐘</span>
-  </span>
-</div>
-
-
-          </div>
-        </div>
-        <nav id="nav">
-  <div class="inner">
-    <div class="toggle">
-      <div class="lines" aria-label="切換導航欄">
-        <span class="line"></span>
-        <span class="line"></span>
-        <span class="line"></span>
-      </div>
-    </div>
-    <ul class="menu">
-      <li class="item title"><a href="/" rel="start">琥珀咖啡屋</a></li>
-    </ul>
-    <ul class="right">
-      <li class="item theme">
-        <i class="ic i-sun"></i>
-      </li>
-      <li class="item search">
-        <i class="ic i-search"></i>
-      </li>
-    </ul>
-  </div>
-</nav>
-
-      </div>
-      <div id="imgs" class="pjax">
-          <img src="https://drive.google.com/uc?export=download&id=1NLVlsRE-Z_3MjueniMJ96FKTnROCZnS9">
-      </div>
-    </header>
-    <div id="waves">
-      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-        <defs>
-          <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-        </defs>
-        <g class="parallax">
-          <use xlink:href="#gentle-wave" x="48" y="0" />
-          <use xlink:href="#gentle-wave" x="48" y="3" />
-          <use xlink:href="#gentle-wave" x="48" y="5" />
-          <use xlink:href="#gentle-wave" x="48" y="7" />
-        </g>
-      </svg>
-    </div>
-    <main>
-      <div class="inner">
-        <div id="main" class="pjax">
-          
-  <div class="article wrap">
-    
-<div class="breadcrumb" itemscope itemtype="https://schema.org/BreadcrumbList">
-<i class="ic i-home"></i>
-<span><a href="/">首頁</a></span><i class="ic i-angle-right"></i>
-<span  class="current" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem"><a href="/categories/%E8%A9%A9/" itemprop="item" rel="index" title="分類於 詩"><span itemprop="name">詩</span></a>
-<meta itemprop="position" content="1" /></span>
-</div>
-
-    <article itemscope itemtype="http://schema.org/Article" class="post block" lang="zh-TW">
-  <link itemprop="mainEntityOfPage" href="https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/">
-
-  <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-    <meta itemprop="image" content="/images/icon2.png">
-    <meta itemprop="name" content="秋ノ琥珀">
-    <meta itemprop="description" content=", ">
-  </span>
-
-  <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-    <meta itemprop="name" content="琥珀咖啡屋">
-  </span>
-
-  <div class="body md" itemprop="articleBody">
-    
-
-    <!-- require APlayer -->
+                name = name || Object.keys(keyObj).length
+                keyObj[name] = fn
+                globalFn[key] = keyObj
+                parent.globalFn = globalFn
+            },
+            addEventListenerPjax: (ele, event, fn, option = false) => {
+              ele.addEventListener(event, fn, option)
+              utils.addGlobalFn('pjax', () => {
+                  ele.removeEventListener(event, fn, option)
+              })
+          },
+        }
+    })()</script><!-- global head--><script>const GLOBAL_CONFIG = {
+    root: '/',
+    algolia: undefined,
+    localsearch: undefined,
+    runtime: '2023-04-20 00:00:00',
+    lazyload: {
+        enable: false,
+        error: '/img/error_load.avif'
+    },
+    copyright: false,
+    highlight: {"limit":200,"expand":true,"copy":true,"syntax":"highlight.js"},
+    randomlink: false,
+    lang: {"theme":{"dark":"已切換至深色模式","light":"已切換至淺色模式"},"copy":{"success":"複製成功","error":"複製失敗"},"backtop":"返回頂部","time":{"day":"天前","hour":"小時前","just":"剛剛","min":"分鐘前","month":"個月前"},"day":" 天","f12":"開發者模式已打開，請遵循GPL協定。","totalk":"無需刪除空行，直接輸入評論即可"},
+    aside: {
+        sayhello: {
+            morning: "✨ Good morning. It's a new day",
+            noon: "It's time for a midday break",
+            afternoon: "Tea time. 🍵",
+            night: "early bedtime",
+            goodnight: "Good night 😴",
+        },
+        sayhello2: [],
+        sayhello3: {
+            prefix: '好久不見，',
+            back: '歡迎再次回來，',
+        },
+    },
+    covercolor: {
+        enable: true
+    },
+    comment: false,
+    lightbox: 'null',
+    post_ai: false,
+    right_menu: false,
+    lure: false,
+    expire: false,
+};</script><!-- page-config head--><script id="config-diff">var PAGE_CONFIG = {
+    is_post: true,
+    is_page: false,
+    is_home: false,
+    page: '',
+    toc: false,
+    comment: false,
+    ai_text: false,
+    color: false,
+}</script><meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/atom.xml" title="紅葉茶屋" type="application/atom+xml">
+</head><body id="body"><!-- universe--><!-- background img--><!-- loading--><!-- console--><!-- sidebar--><div id="sidebar" style="zoom: 1;"><div id="menu-mask" style="display: none;"></div><div id="sidebar-menus"><div class="site-data"><div class="data-item is-center"><div class="data-item-link"><a href="/archives/"><div class="headline">文章</div><div class="length-num">18</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/categories/"><div class="headline">分類</div><div class="length-num">3</div></a></div></div><div class="data-item is-center"><div class="data-item-link"><a href="/tags/"><div class="headline">標籤</div><div class="length-num">5</div></a></div></div></div><span class="sidebar-menu-item-title">功能</span><div class="sidebar-menu-item"><span class="darkmode_switchbutton menu-child" onclick="sco.switchDarkMode()"><i class="solitude fa-solid fa-circle-half-stroke"></i><span>顯示模式</span></span></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主頁</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>歸檔</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分類</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>標籤</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/%E8%A8%82%E9%96%B1/%20%7C%7C%20link-alt"><span>訂閱</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><span>關於</span></a></div></div><span class="sidebar-menu-item-title">標籤</span><div class="card-widget card-tags card-archives card-webinfo card-allinfo"><div class="card-tag-cloud"><a href="/tags/%E8%A9%A9/">詩<sup>10</sup></a><a href="/tags/%E9%9A%A8%E7%AD%86/">隨筆<sup>7</sup></a><a href="/tags/%E5%8E%9F%E5%89%B5%E6%9B%B2/">原創曲<sup>1</sup></a><a href="/tags/%E8%AE%80%E5%BE%8C%E6%84%9F/">讀後感<sup>1</sup></a><a href="/tags/%E6%BC%AB%E6%89%8D/">漫才<sup>1</sup></a></div></div></div></div><!-- keyboard--><div class="post" id="body-wrap"><header class="post-bg" id="page-header"><nav class="show" id="nav"><div id="nav-group"><div id="blog_name"><a id="site-name" href="/" title="返回博客主頁"><span class="title">紅葉茶屋</span><i class="solitude fa-solid fa-home"></i></a></div><div id="page-name-mask"><div id="page-name"><a id="page-name-text" onclick="sco.toTop()">橋</a></div></div><div id="menus"><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><span>主頁</span></a></div><div class="menus_item"><a class="site-page" href="javascript:void(0);"><span>文章</span></a><ul class="menus_item_child"><li><a class="site-page child" href="/archives/"><i class="solitude  fas fa-folder-closed"></i><span>歸檔</span></a></li><li><a class="site-page child" href="/categories/"><i class="solitude  fas fa-clone"></i><span>分類</span></a></li><li><a class="site-page child" href="/tags/"><i class="solitude  fas fa-tags"></i><span>標籤</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/%E8%A8%82%E9%96%B1/%20%7C%7C%20link-alt"><span>訂閱</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><span>關於</span></a></div></div></div><div id="nav-left"></div><div id="nav-right"><div class="nav-button" id="nav-totop" onclick="sco.toTop()"><a class="totopbtn"><i class="solitude fa-solid fa-arrow-up"></i><span id="percent">0</span></a></div><div id="toggle-menu"><a class="site-page"><i class="solitude fa-solid fa-bars"></i></a></div></div></div></nav><div class="coverdiv" id="coverdiv"><img class="nolazyload" id="post-cover" src="https://awaaki-momiji.com/imagehost//雲.jpg" alt="橋"></div><div id="post-info"><div id="post-firstinfo"><div class="meta-firstline"><a class="post-meta-original" title="該文章為原創文章，注意版權協議">原創</a><span class="post-meta-categories"><a class="post-meta-categories" href="/categories/%E8%A9%A9/">詩</a></span><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E8%A9%A9/"><span class="tags-name tags-punctuation"><i class="solitude fa-solid fa-hashtag"></i>詩</span></a></div></div></div></div><h1 class="post-title">橋</h1><div id="post-meta"><div class="meta-secondline"><span class="post-meta-date" title="發布於 2023-07-13 23:27:00"><i class="post-meta-icon solitude fa-solid fa-calendar-days"></i><time datetime="2023-07-13T22:27:00.000Z">2023-07-13T22:27:00.000Z</time></span><a class="post-meta-pv" href="/2023/07/13/%E8%A9%A9/%E6%A9%8B/" title="文章熱度"><i class="post-meta-icon solitude fa-solid fa-fire-flame-curved"></i><span id="busuanzi_value_page_pv"><i class="solitude fa-solid fa-spinner"></i></span></a></div></div></div><section class="main-hero-waves-area waves-area"><svg class="waves-svg" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto"><defs><path id="gentle-wave" d="M -160 44 c 30 0 58 -18 88 -18 s 58 18 88 18 s 58 -18 88 -18 s 58 18 88 18 v 44 h -352 Z"></path></defs><g class="parallax"><use href="#gentle-wave" x="48" y="0"></use><use href="#gentle-wave" x="48" y="3"></use><use href="#gentle-wave" x="48" y="5"></use><use href="#gentle-wave" x="48" y="7"></use></g></svg></section></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><!-- require APlayer -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 <!-- require MetingJS -->
@@ -179,8 +137,8 @@
 <p><meting-js
 	name="當你孤單你會想起誰"
 	artist="張棟樑"
-	url="https://drive.google.com/uc?export=download&id=1LJZdWR8Ycuhqa6NPxQu2HG641h9ge6UV"
-	cover="https://drive.google.com/uc?export=download&id=122jYydCbuD_5x7J1GLmWXk3Ho58AMjva"><br>
+	url="https://awaaki-momiji.com/song/Dang%20Ni%20Gu%20Dan%20Ni%20Hui%20Xiang%20Qi%20Shui%20%E7%95%B6%E4%BD%A0%E5%AD%A4%E5%96%AE%E4%BD%A0%E6%9C%83%E6%83%B3%E8%B5%B7%E8%AA%B0%20%E5%BD%93%E4%BD%A0%E5%AD%A4%E5%8D%95%E4%BD%A0%E4%BC%9A%E6%83%B3%E8%B5%B7%E8%B0%81-%E5%BC%A0%E6%A0%8B%E6%A2%81.flac"
+	cover="https://awaaki-momiji.com/imagehost//First Choice.jpg"><br>
 </meting-js></p>
 <p>寂寞的夜裏<br>
 突然想起你了<br>
@@ -188,379 +146,51 @@
 你有在想我嗎<br>
 如果思念能搭成橋<br>
 會是雙向通行的嗎</p>
-
-      <div class="tags">
-          <a href="/tags/%E8%A9%A9/" rel="tag"><i class="ic i-tag"></i> 詩</a>
-      </div>
-  </div>
-
-   <footer>
-
-    <div class="meta">
-  <span id="2023/07/13/詩/橋/" class="item leancloud_visitors" data-flag-title="橋" title="閱讀次數">
-      <span class="icon">
-        <i class="ic i-eye"></i>
-      </span>
-      <span class="text">閱讀次數</span>
-      <span class="leancloud-visitors-count"></span>
-      <span class="text">次</span>
-  </span>
-</div>
-
-      
-
-<div id="copyright">
-<ul>
-  <li class="author">
-    <strong>作者： </strong>秋ノ琥珀 <i class="ic i-at"><em>@</em></i>琥珀咖啡屋
-  </li>
-  <li class="link">
-    <strong>文章連結：</strong>
-    <a href="https://aki-kohaku.github.io/2023/07/13/%E8%A9%A9/%E6%A9%8B/" title="橋">https://aki-kohaku.github.io/2023/07/13/詩/橋/</a>
-  </li>
-  <li class="license">
-    <strong>版權聲明： </strong>本網誌所有文章除特別聲明外，均採用 <span class="exturl" data-url="aHR0cHM6Ly9jcmVhdGl2ZWNvbW1vbnMub3JnL2xpY2Vuc2VzL2J5LW5jLXNhLzQuMC9kZWVkLnpo"><i class="ic i-creative-commons"><em>(CC)</em></i>BY-NC-SA</span> 許可協議。轉載請註明出處！
-  </li>
-</ul>
-</div>
-
-  </footer>
-
-</article>
-
-  </div>
-  
-
-<div class="post-nav">
-    <div class="item left">
-      
-
-  <a href="/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/" itemprop="url" rel="prev" data-background-image="https:&#x2F;&#x2F;drive.google.com&#x2F;uc?export&#x3D;download&amp;id&#x3D;1yo3bjeIP8iOOJjNhNaWvVgvu9TkYiaY1" title="沒有心的怪物">
-  <span class="type">上一篇</span>
-  <span class="category"><i class="ic i-flag"></i> 詩</span>
-  <h3>沒有心的怪物</h3>
-  </a>
-
-    </div>
-    <div class="item right">
-      
-
-  <a href="/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/" itemprop="url" rel="next" data-background-image="https:&#x2F;&#x2F;drive.google.com&#x2F;uc?export&#x3D;download&amp;id&#x3D;1hVWadl5EwWOZuH76tO-w3S1wp-GhYR72" title="燈塔">
-  <span class="type">下一篇</span>
-  <span class="category"><i class="ic i-flag"></i> 詩</span>
-  <h3>燈塔</h3>
-  </a>
-
-    </div>
-</div>
-
-  
-  <div class="wrap" id="comments"></div>
-
-
-        </div>
-        <div id="sidebar">
-          
-
-<div class="inner">
-
-  <div class="panels">
-    <div class="inner">
-      <div class="contents panel pjax" data-title="文章目錄">
-      </div>
-      <div class="related panel pjax" data-title="系列文章">
-        <ul>
-          <li><a href="/2023/06/11/%E8%A9%A9/%E5%A4%B1%E7%9C%A0%E5%A4%9C/" rel="bookmark" title="失眠夜">失眠夜</a></li><li><a href="/2023/06/11/%E8%A9%A9/%E9%8F%A1%E5%AD%90/" rel="bookmark" title="鏡子">鏡子</a></li><li><a href="/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/" rel="bookmark" title="沒有心的怪物">沒有心的怪物</a></li><li class="active"><a href="/2023/07/13/%E8%A9%A9/%E6%A9%8B/" rel="bookmark" title="橋">橋</a></li><li><a href="/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/" rel="bookmark" title="燈塔">燈塔</a></li><li><a href="/2023/07/15/%E8%A9%A9/%E6%88%80%E5%A4%A2/" rel="bookmark" title="戀夢">戀夢</a></li><li><a href="/2023/07/27/%E8%A9%A9/%E6%B7%9A/" rel="bookmark" title="淚">淚</a></li><li><a href="/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/" rel="bookmark" title="封心">封心</a></li><li><a href="/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/" rel="bookmark" title="無心之言">無心之言</a></li><li><a href="/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/" rel="bookmark" title="花園">花園</a></li>
-        </ul>
-      </div>
-      <div class="overview panel" data-title="本站概要">
-        <div class="author" itemprop="author" itemscope itemtype="http://schema.org/Person">
-  <img class="image" itemprop="image" alt="秋ノ琥珀"
-      data-src="/images/icon2.png">
-  <p class="name" itemprop="name">秋ノ琥珀</p>
-  <div class="description" itemprop="description"></div>
-</div>
-
-<nav class="state">
-    <div class="item posts">
-      <a href="/archives/">
-        <span class="count">18</span>
-        <span class="name">文章</span>
-      </a>
-    </div>
-    <div class="item categories">
-      <a href="/categories/">
-        <span class="count">3</span>
-        <span class="name">分類</span>
-      </a>
-    </div>
-    <div class="item tags">
-      <a href="/tags/">
-        <span class="count">5</span>
-        <span class="name">標籤</span>
-      </a>
-    </div>
-</nav>
-
-<div class="social">
-      <span class="exturl item email" data-url="bWFpbHRvOmFraS5rb2hha3UuZHhAZ21haWwuY29t" title="mailto:aki.kohaku.dx@gmail.com"><i class="ic i-envelope"></i></span>
-      <span class="exturl item facebook" data-url="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL3Byb2ZpbGUucGhwP2lkPTEwMDA5MzIyNjE5NjIwMw==" title="https:&#x2F;&#x2F;www.facebook.com&#x2F;profile.php?id&#x3D;100093226196203"><i class="ic i-facebook"></i></span>
-      <span class="exturl item Penana" data-url="aHR0cHM6Ly93d3cucGVuYW5hLmNvbS91c2VyLzE1Mjk2OC8lQzMlQkUlQzMlQjYtJUMzJUJFJUMzJUE5JUMzJUIxJUMzJUJFJUMzJUE1JUMzJUE3L3BvcnRmb2xpbw==" title="https:&#x2F;&#x2F;www.penana.com&#x2F;user&#x2F;152968&#x2F;%C3%BE%C3%B6-%C3%BE%C3%A9%C3%B1%C3%BE%C3%A5%C3%A7&#x2F;portfolio"><i class="ic i-pen"></i></span>
-      <span class="exturl item Baha" data-url="aHR0cHM6Ly9ob21lLmdhbWVyLmNvbS50dy9ob21laW5kZXgucGhwP293bmVyPWRvZ2RyYWdvbjEyMw==" title="https:&#x2F;&#x2F;home.gamer.com.tw&#x2F;homeindex.php?owner&#x3D;dogdragon123"><i class="ic i-mobile-alt"></i></span>
-</div>
-
-<ul class="menu">
-  
-    
-  <li class="item">
-    <a href="/" rel="section"><i class="ic i-home"></i>首頁</a>
-  </li>
-
-        
-  <li class="item dropdown">
-      <a href="javascript:void(0);"><i class="ic i-feather"></i>文章</a>
-    <ul class="submenu">
-
-        
-  <li class="item">
-    <a href="/archives/" rel="section"><i class="ic i-list-alt"></i>文章列表</a>
-  </li>
-
-        
-  <li class="item">
-    <a href="/categories/" rel="section"><i class="ic i-th"></i>分類</a>
-  </li>
-
-        
-  <li class="item">
-    <a href="/tags/" rel="section"><i class="ic i-tags"></i>標籤</a>
-  </li>
-
-  </ul>
-    
-  <li class="item">
-    <a href="/%E8%A8%82%E9%96%B1/" rel="section"><i class="ic i-link-alt"></i>訂閱</a>
-  </li>
-
-    
-  <li class="item">
-    <a href="/about/" rel="section"><i class="ic i-user"></i>關於</a>
-  </li>
-
-
-</ul>
-
-      </div>
-    </div>
-  </div>
-
-  <ul id="quick">
-    <li class="prev pjax">
-        <a href="/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/" rel="prev" title="上一篇"><i class="ic i-chevron-left"></i></a>
-    </li>
-    <li class="up"><i class="ic i-arrow-up"></i></li>
-    <li class="down"><i class="ic i-arrow-down"></i></li>
-    <li class="next pjax">
-        <a href="/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/" rel="next" title="下一篇"><i class="ic i-chevron-right"></i></a>
-    </li>
-    <li class="percent"></li>
-  </ul>
-</div>
-
-
-        </div>
-        <div class="dimmer"></div>
-      </div>
-    </main>
-    <footer id="footer">
-      <div class="inner">
-        <div class="widgets">
-          
-<div class="rpost pjax">
-  <h2>隨機文章</h2>
-  <ul>
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E9%9A%A8%E7%AD%86/" title="分類於 隨筆">隨筆</a>
-</div>
-
-    <span><a href="/2023/05/16/%E9%9A%A8%E7%AD%86/%E8%A8%8E%E5%8E%AD/" title="討厭">討厭</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E9%9A%A8%E7%AD%86/" title="分類於 隨筆">隨筆</a>
-</div>
-
-    <span><a href="/2023/06/23/%E9%9A%A8%E7%AD%86/%E6%9C%80%E5%8B%95%E4%BA%BA%E7%9A%84%E6%83%85%E8%A9%B1/" title="最動人的情話">最動人的情話</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E8%A9%A9/" title="分類於 詩">詩</a>
-</div>
-
-    <span><a href="/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/" title="沒有心的怪物">沒有心的怪物</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E8%A9%A9/" title="分類於 詩">詩</a>
-</div>
-
-    <span><a href="/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/" title="封心">封心</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E8%A9%A9/" title="分類於 詩">詩</a>
-</div>
-
-    <span><a href="/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/" title="花園">花園</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E9%9A%A8%E7%AD%86/" title="分類於 隨筆">隨筆</a>
-</div>
-
-    <span><a href="/2023/10/01/%E9%9A%A8%E7%AD%86/%E3%80%8A%E5%AD%BF%E7%94%9F%E5%AD%90%E3%80%8B%E8%AE%80%E5%BE%8C%E6%84%9F%E2%80%94%E2%80%94%E8%83%83%E7%97%9B%EF%BC%8C%E7%B8%BD%E4%B9%8B%E5%B0%B1%E6%98%AF%E8%83%83%E7%97%9B/" title="《孿生子》讀後感——胃痛，總之就是胃痛">《孿生子》讀後感——胃痛，總之就是胃痛</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E9%9A%A8%E7%AD%86/" title="分類於 隨筆">隨筆</a>
-</div>
-
-    <span><a href="/2023/08/02/%E9%9A%A8%E7%AD%86/%E6%9C%80%E8%A8%8E%E5%8E%AD%E7%9A%84%E4%BD%9C%E5%AE%B6/" title="最討厭的作家">最討厭的作家</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E9%9A%A8%E7%AD%86/" title="分類於 隨筆">隨筆</a>
-</div>
-
-    <span><a href="/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/" title="朋友漫才">朋友漫才</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E9%9A%A8%E7%AD%86/" title="分類於 隨筆">隨筆</a>
-</div>
-
-    <span><a href="/2023/05/13/%E9%9A%A8%E7%AD%86/%E6%9C%80%E8%A8%8E%E5%8E%AD%E4%BD%A0%E4%BA%86/" title="最討厭你了">最討厭你了</a></span>
-  </li>
-
-      
-  <li class="item">
-    
-<div class="breadcrumb">
-<a href="/categories/%E8%A9%A9/" title="分類於 詩">詩</a>
-</div>
-
-    <span><a href="/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/" title="燈塔">燈塔</a></span>
-  </li>
-
-  </ul>
-</div>
-<div>
-  <h2>最新評論</h2>
-  <ul class="leancloud-recent-comment"></ul>
-</div>
-
-        </div>
-        <div class="status">
-  <div class="copyright">
-    
-    &copy; 2023 – 
-    <span itemprop="copyrightYear">2024</span>
-    <span class="with-love">
-      <i class="ic i-sakura rotate"></i>
-    </span>
-    <span class="author" itemprop="copyrightHolder">秋ノ琥珀 @ 琥珀咖啡屋</span>
-  </div>
-  <div class="count">
-    <span class="post-meta-item-icon">
-      <i class="ic i-chart-area"></i>
-    </span>
-    <span title="總字數">12k 字</span>
-
-    <span class="post-meta-divider">|</span>
-    <span class="post-meta-item-icon">
-      <i class="ic i-coffee"></i>
-    </span>
-    <span title="所需總閱讀時間">20 分鐘</span>
-  </div>
-  <div class="powered-by">
-    基於 <span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlv">Hexo</span> & Theme.<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">Shoka</span>
-  </div>
-</div>
-
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-
-<span id="busuanzi_container_site_pv">
-    本站總訪問量<span id="busuanzi_value_site_pv"></span>次
-</span>
-
-<span id="busuanzi_container_site_uv">
-  本站訪客數<span id="busuanzi_value_site_uv"></span>人次
-</span>
-
-
-      </div>
-    </footer>
-  </div>
-<script data-config type="text/javascript">
-  var LOCAL = {
-    path: '2023/07/13/詩/橋/',
-    favicon: {
-      show: "（●´3｀●）復活成功",
-      hide: "(´Д｀)瀏覽器崩潰啦"
-    },
-    search : {
-      placeholder: "文章搜尋",
-      empty: "關於 「 ${query} 」 ，什麼也沒搜到",
-      stats: "${time} ms 內找到 ${hits} 條結果"
-    },
-    valine: true,fancybox: true,
-    copyright: '複製成功，轉載請遵守 <i class="ic i-creative-commons"></i>BY-NC-SA 協議。',
-    ignores : [
-      function(uri) {
-        return uri.includes('#');
-      },
-      function(uri) {
-        return new RegExp(LOCAL.path+"$").test(uri);
-      }
-    ]
-  };
-</script>
-
-<script src="https://cdn.polyfill.io/v2/polyfill.js"></script>
-
-<script src="//cdn.jsdelivr.net/combine/npm/pace-js@1.0.2/pace.min.js,npm/pjax@0.2.8/pjax.min.js,npm/whatwg-fetch@3.4.0/dist/fetch.umd.min.js,npm/animejs@3.2.0/lib/anime.min.js,npm/algoliasearch@4/dist/algoliasearch-lite.umd.js,npm/instantsearch.js@4/dist/instantsearch.production.min.js,npm/lozad@1/dist/lozad.min.js,npm/quicklink@2/dist/quicklink.umd.js"></script>
-
-<script src="/js/app.js?v=0.2.5"></script>
-
-
-
-
-</body>
-</html>
+</article><div class="post-copyright"><div class="post-copyright__author_group"><a class="post-copyright__author_img" href="/about/"><img class="post-copyright__author_img_front" src="/img/pwa/favicon.ico"></a><div class="post-copyright__author_name">紅葉茶屋</div><div class="post-copyright__author_desc"></div></div><div class="post-tools" id="post-tools"><div class="post-tools-left"><div id="quit-box" onclick="RemoveRewardMask()"></div></div></div><div class="post-copyright__notice"><span class="post-copyright-info">本文是原创文章，采用<a target="_blank" rel="noopener" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>协议，完整转载请注明来自<a href="/">紅葉茶屋</a></span></div></div><div class="post-tools-right"><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E8%A9%A9/"><span class="tags-punctuation"><i class="solitude fa-solid fa-hashtag"></i>詩<span class="tagsPageCount">10</span></span></a></div></div></div><nav class="needEndHide pagination-post" id="pagination"><div class="prev-post pull-left"><a href="/2023/07/14/%E8%A9%A9/%E7%87%88%E5%A1%94/"><div class="pagination-info"><div class="label">上一篇</div><div class="prev_info">燈塔</div></div></a></div><div class="next-post pull-right"><a href="/2023/07/10/%E8%A9%A9/%E6%B2%92%E6%9C%89%E5%BF%83%E7%9A%84%E6%80%AA%E7%89%A9/"><div class="pagination-info"><div class="label">下一篇</div><div class="next_info">沒有心的怪物</div></div></a></div></nav></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="card-content"><div class="card-info-avatar is-center"><div class="author-info__top-group"><div class="author-info__sayhi" id="author-info__sayhi" onclick="sco.changeSayHelloText()">sayhello.morning</div></div></div><div class="avatar-img-group"><img class="avatar-img" alt="头像" src="/img/10-03-2024正方形.png"></div><div class="author-info__description_group"><div class="author-info__description"></div><div class="author-info__description2"></div></div><div class="author-info__bottom-group"><a class="author-info__bottom-group-left" href="/about/"><div class="author-info__name">淡秋紅葉</div><div class="author-info__desc"></div></a><div class="card-info-social-icons is-center"></div></div></div></div><div class="sticky_layout"><div class="card-widget card-recent-post"><div class="item-headline"><i class="solitude fa-solid fa-map"></i><span>最近发布</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/" title="花園"><img alt="花園" src="https://awaaki-momiji.com/imagehost//forest hole.jpg"></a><div class="content"><span class="title" href="/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/" title="花園">花園</span><span class="article-recent_post_categories" href="/2024/01/07/%E8%A9%A9/%E8%8A%B1%E5%9C%92/">詩</span></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/10/01/%E9%9A%A8%E7%AD%86/%E3%80%8A%E5%AD%BF%E7%94%9F%E5%AD%90%E3%80%8B%E8%AE%80%E5%BE%8C%E6%84%9F%E2%80%94%E2%80%94%E8%83%83%E7%97%9B%EF%BC%8C%E7%B8%BD%E4%B9%8B%E5%B0%B1%E6%98%AF%E8%83%83%E7%97%9B/" title="《孿生子》讀後感——胃痛，總之就是胃痛"><img alt="《孿生子》讀後感——胃痛，總之就是胃痛" src="https://awaaki-momiji.com/imagehost//孿生子-cover.jpg"></a><div class="content"><span class="title" href="/2023/10/01/%E9%9A%A8%E7%AD%86/%E3%80%8A%E5%AD%BF%E7%94%9F%E5%AD%90%E3%80%8B%E8%AE%80%E5%BE%8C%E6%84%9F%E2%80%94%E2%80%94%E8%83%83%E7%97%9B%EF%BC%8C%E7%B8%BD%E4%B9%8B%E5%B0%B1%E6%98%AF%E8%83%83%E7%97%9B/" title="《孿生子》讀後感——胃痛，總之就是胃痛">《孿生子》讀後感——胃痛，總之就是胃痛</span><span class="article-recent_post_categories" href="/2023/10/01/%E9%9A%A8%E7%AD%86/%E3%80%8A%E5%AD%BF%E7%94%9F%E5%AD%90%E3%80%8B%E8%AE%80%E5%BE%8C%E6%84%9F%E2%80%94%E2%80%94%E8%83%83%E7%97%9B%EF%BC%8C%E7%B8%BD%E4%B9%8B%E5%B0%B1%E6%98%AF%E8%83%83%E7%97%9B/">隨筆</span></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/" title="無心之言"><img alt="無心之言" src="https://awaaki-momiji.com/imagehost//MIB外.jpg"></a><div class="content"><span class="title" href="/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/" title="無心之言">無心之言</span><span class="article-recent_post_categories" href="/2023/08/09/%E8%A9%A9/%E7%84%A1%E5%BF%83%E4%B9%8B%E8%A8%80/">詩</span></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/" title="封心"><img alt="封心" src="https://awaaki-momiji.com/imagehost//敏特宮.jpg"></a><div class="content"><span class="title" href="/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/" title="封心">封心</span><span class="article-recent_post_categories" href="/2023/08/06/%E8%A9%A9/%E5%B0%81%E5%BF%83/">詩</span></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/" title="朋友漫才"><img alt="朋友漫才" src="https://awaaki-momiji.com/imagehost//河道.jpg"></a><div class="content"><span class="title" href="/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/" title="朋友漫才">朋友漫才</span><span class="article-recent_post_categories" href="/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/">隨筆</span></div></div></div></div></div></div></main><footer id="footer"><div id="footer_deal"></div><div id="st-footer"></div><div id="footer-bar"><div class="footer-bar-links"><div class="footer-bar-left"><div class="copyright">© 2023 - 2024 By&nbsp;<a class="footer-bar-link" href="/">淡秋紅葉</a></div></div><div class="footer-bar-right"><a class="footer-bar-link" target="_blank" rel="noopener" href="https://github.com/everfu/hexo-theme-solitude" alt="Theme">Theme</a></div></div></div></footer></div><!-- right_menu--><!-- inject body--><div><script src="/js/utils.js?v=2.0.12"></script><script src="/js/main.js?v=2.0.12"></script><script src="/js/third_party/waterfall.min.js?v=2.0.12"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pjax/0.2.8/pjax.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/node-snackbar/0.1.16/snackbar.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/color-thief/2.4.0/color-thief.min.js"></script><script src="/js/covercolor/local.js?v=2.0.12"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js"></script><div class="js-pjax"><script defer pjax src="https://cdnjs.cloudflare.com/ajax/libs/busuanzi/2.3.0/bsz.pure.mini.min.js"></script></div></div><!-- pjax--><script>const pjax = new Pjax({
+    elements: 'a:not([target="_blank"])',
+    selectors: ['title','#body-wrap','#site-config','meta[name="description"]','.js-pjax','meta[property^="og:"]','#config-diff'],
+    cacheBust: false,
+    analytics: false,
+    scrollRestoration: false
+})
+
+document.querySelectorAll('script[data-pjax]').forEach(item => {
+    const newScript = document.createElement('script')
+    const content = item.text || item.textContent || item.innerHTML || ""
+    Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+    newScript.appendChild(document.createTextNode(content))
+    item.parentNode.replaceChild(newScript, item)
+})
+
+document.addEventListener('pjax:complete', () => {
+    window.refreshFn()
+
+    document.querySelectorAll('script[data-pjax]').forEach(item => {
+        const newScript = document.createElement('script')
+        const content = item.text || item.textContent || item.innerHTML || ""
+        Array.from(item.attributes).forEach(attr => newScript.setAttribute(attr.name, attr.value))
+        newScript.appendChild(document.createTextNode(content))
+        item.parentNode.replaceChild(newScript, item)
+    })
+
+    GLOBAL_CONFIG.islazyload && window.lazyLoadInstance.update()
+
+})
+
+document.addEventListener('pjax:error', (e) => {
+    if (e.request.status === 404) {
+        pjax.loadUrl('/404.html')
+    }
+})</script><!-- theme--><script>initTheme = () => {
+    let isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches
+    const cachedMode = utils.saveToLocal.get('theme');
+    if (cachedMode === undefined) {
+        const nowMode =
+            isDarkMode ? 'dark' : 'light'
+        document.documentElement.setAttribute('data-theme', nowMode);
+    } else {
+        document.documentElement.setAttribute('data-theme', cachedMode);
+    }
+    typeof rm === 'object' && rm.mode(cachedMode === 'dark' && isDarkMode)
+}
+initTheme()</script><!-- google adsense--><!-- search--><!-- Tianli-Talk--><!-- music--></body></html><script>const posts=["2024/01/07/詩/花園/","2023/10/01/隨筆/《孿生子》讀後感——胃痛，總之就是胃痛/","2023/08/09/詩/無心之言/","2023/08/06/詩/封心/","2023/08/04/隨筆/朋友漫才/","2023/08/02/隨筆/最討厭的作家/","2023/07/31/原創曲/原創曲1 忘れない人　文章/","2023/07/27/詩/淚/","2023/07/15/詩/戀夢/","2023/07/14/詩/燈塔/","2023/07/13/詩/橋/","2023/07/10/詩/沒有心的怪物/","2023/07/05/隨筆/念舊/","2023/06/23/隨筆/最動人的情話/","2023/06/11/詩/鏡子/","2023/06/11/詩/失眠夜/","2023/05/16/隨筆/討厭/","2023/05/13/隨筆/最討厭你了/"];function toRandomPost(){ pjax.loadUrl(GLOBAL_CONFIG.root+posts[Math.floor(Math.random()*posts.length)]); }</script>
