@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aki-kohaku.github.io</id>
+    <title>紅葉茶屋 • Posts by &#34;原創曲&#34; tag</title>
+    <link href="https://aki-kohaku.github.io" />
+    <updated>2023-07-31T22:46:00.000Z</updated>
+    <category term="詩" />
+    <category term="隨筆" />
+    <category term="原創曲" />
+    <category term="讀後感" />
+    <category term="漫才" />
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/07/31/%E5%8E%9F%E5%89%B5%E6%9B%B2/%E5%8E%9F%E5%89%B5%E6%9B%B21%20%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84%E4%BA%BA%E3%80%80%E6%96%87%E7%AB%A0/</id>
+        <title>原創曲 忘れない人</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/07/31/%E5%8E%9F%E5%89%B5%E6%9B%B2/%E5%8E%9F%E5%89%B5%E6%9B%B21%20%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84%E4%BA%BA%E3%80%80%E6%96%87%E7%AB%A0/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- require MetingJS --&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+	name=&#34;忘れない人&#34;
+	artist=&#34;淡秋紅葉&#34;
+	url=&#34;https://awaaki-momiji.com/song/%E5%BF%98%E3%82%8C%E3%81%AA%E3%81%84%E4%BA%BA.wav&#34;
+	cover=&#34;https://awaaki-momiji.com/imagehost//飄.png&#34;&gt;&lt;br&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;h1 id=&#34;歌詞&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#歌詞&#34;&gt;#&lt;/a&gt; 歌詞&lt;/h1&gt;
+&lt;p&gt;大事ない物が今　探している&lt;br&gt;
+壊した恋はまだ　続けるだろ&lt;br&gt;
+戻らない時間を　思いになる&lt;br&gt;
+きっと　それていいだろう&lt;/p&gt;
+&lt;p&gt;やっぱりさ　忘れない　一緒に過ごした時間&lt;br&gt;
+君とみた夕焼けは　それは一生忘れない&lt;br&gt;
+忘れるの方がいい　かな&lt;br&gt;
+すべてなかったように　それていいだろう&lt;/p&gt;
+&lt;p&gt;忘れないよ　つらい思いはあるけど　&lt;br&gt;
+それでも　幸せなものもある&lt;br&gt;
+やっばり忘れないよ　記憶は鮮やか　&lt;br&gt;
+けど君は既に　触らない場所へ&lt;/p&gt;
+&lt;p&gt;やっぱりさ　忘れない　一緒に過ごした時間&lt;br&gt;
+君とみた夕焼けは　それを一生忘れない&lt;br&gt;
+あきめる　そんなこと　できない&lt;br&gt;
+わからないな気持ち　心にあぶり出す&lt;/p&gt;
+&lt;p&gt;忘れないよ　つらい思いはあるけど　&lt;br&gt;
+それでも　幸せなものもある&lt;br&gt;
+やっばり忘れないよ　記憶は鮮やか　&lt;br&gt;
+戻したいな人は　どうやって取り戻す&lt;/p&gt;
+&lt;p&gt;大好きなんだよ　可愛いな君のこと　&lt;br&gt;
+やっばりさ　君がいないと　ダメになる&lt;br&gt;
+やっばり大好きなんだよ　穏やかなところ　&lt;br&gt;
+届けるでしょうか　この恋の歌&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;中文翻譯&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#中文翻譯&#34;&gt;#&lt;/a&gt; 中文翻譯&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;為了對上原文歌詞的語序，譯文基本上都是沒有經過修飾的直譯，會顯得略為奇怪，敬請見諒&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;大事ない物が今　探している&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;重要的事物　現在仍在尋找&lt;/span&gt;&lt;br&gt;
+壊した恋はまだ　続けるだろ&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;已經損壞掉的愛戀　還能繼續嗎？&lt;/span&gt;&lt;br&gt;
+戻らない時間を　思いになる&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;已經無法回來的時光　將變成回憶&lt;/span&gt;&lt;br&gt;
+きっと　それていいだろう&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;一定　這樣就好了吧&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;やっぱりさ　忘れない　一緒に過ごした時間&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;果然　無法忘懷　一起渡過的時間&lt;/span&gt;&lt;br&gt;
+君とみた夕焼けは　それは一生忘れない&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;和你一起看的夕陽　是一生不會忘記的&lt;/span&gt;&lt;br&gt;
+忘れるの方がいい　かな&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;忘記掉的話　會比較好嗎？&lt;/span&gt;&lt;br&gt;
+すべてなかったように　それていいだろう&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;把所有事務都像沒發生過一樣　這樣就好了吧&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;忘れないよ　つらい思いはあるけど&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;無法忘記　雖然也有辛酸的回憶&lt;/span&gt;&lt;br&gt;
+それでも　幸せなものもある&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;即使如此　也有幸福的回憶&lt;/span&gt;&lt;br&gt;
+やっばり忘れないよ　記憶は鮮やか&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;果然還是無法忘記　記憶很鮮明&lt;/span&gt;&lt;br&gt;
+けど君は既に　触らない場所へ&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;但是你已經　到了觸碰不到的地方&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;やっぱりさ　忘れない　一緒に過ごした時間&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;果然　無法忘懷　一起渡過的時間&lt;/span&gt;&lt;br&gt;
+君とみた夕焼けは　それは一生忘れない&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;和你一起看的夕陽　是一生不會忘記的&lt;/span&gt;&lt;br&gt;
+あきめる　そんなこと　できない&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;放棄　這樣的事情　我做不到&lt;/span&gt;&lt;br&gt;
+わからないな気持ち　心にあぶり出す&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;莫名的心情　從心中湧現&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;忘れないよ　つらい思いはあるけど&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;無法忘記　雖然也有辛酸的回憶&lt;/span&gt;&lt;br&gt;
+それでも　幸せなものもある&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;即使如此　也有幸福的回憶&lt;/span&gt;&lt;br&gt;
+やっばり忘れないよ　記憶は鮮やか&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;果然還是無法忘記　記憶很鮮明&lt;/span&gt;&lt;br&gt;
+戻したいな人は　どうやって取り戻す&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;希望讓她回來的人　到底要怎樣才能回來&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;大好きなんだよ　可愛いな君のこと　&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;最喜歡了　可愛的你&lt;/span&gt;&lt;br&gt;
+やっばりさ　君がいないと　ダメになる&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;果然　沒有你的話　我甚麼都做不到&lt;/span&gt;&lt;br&gt;
+やっばり大好きなんだよ　穏やかなところ&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;果然還是最喜歡了　你穩重的地方&lt;/span&gt;&lt;br&gt;
+届けるでしょうか　この恋の歌&lt;br&gt;
+&lt;span class=&#34;grey&#34;&gt;能夠傳達到嗎　這首戀歌&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;後記&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#後記&#34;&gt;#&lt;/a&gt; 後記&lt;/h1&gt;
+&lt;p&gt;後悔，一言以蔽之就是後悔。你說我一個連五線譜都讀不懂的音樂白痴怎麼就突然一時興起，跑去寫歌呢？唉，折磨了我兩個星期，幸好到最後還是弄出了點東西，雖然旋律平平無奇、編曲一塌糊塗、歌詞更是不知所云！到最後我自己都不好意思自己唱這首爛歌了，只好草草地交給語音合成軟體來唱。&lt;/p&gt;
+&lt;p&gt;其實還有很多可以改善的地方，但我已經受夠了！不想再弄了！&lt;/p&gt;
+</content>
+        <category term="原創曲" />
+        <updated>2023-07-31T22:46:00.000Z</updated>
+    </entry>
+</feed>

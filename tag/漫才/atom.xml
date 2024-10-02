@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aki-kohaku.github.io</id>
+    <title>紅葉茶屋 • Posts by &#34;漫才&#34; tag</title>
+    <link href="https://aki-kohaku.github.io" />
+    <updated>2023-08-04T14:03:00.000Z</updated>
+    <category term="詩" />
+    <category term="隨筆" />
+    <category term="原創曲" />
+    <category term="讀後感" />
+    <category term="漫才" />
+    <entry>
+        <id>https://aki-kohaku.github.io/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/</id>
+        <title>朋友漫才</title>
+        <link rel="alternate" href="https://aki-kohaku.github.io/2023/08/04/%E9%9A%A8%E7%AD%86/%E6%9C%8B%E5%8F%8B%E6%BC%AB%E6%89%8D/"/>
+        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;!-- require APlayer --&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;!-- require MetingJS --&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+	name=&#34;蒼い蝶&#34;
+	artist=&#34;蒼月エリ&#34;
+	url=&#34;https://awaaki-momiji.com/song/%E8%92%BC%E3%81%84%E8%9D%B6-%E8%92%BC%E6%9C%88%E3%82%A8%E3%83%AA.flac&#34;
+	cover=&#34;https://awaaki-momiji.com/imagehost//蒼い蝶.jpg&#34;&gt;&lt;br&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;p&gt;A︰說起來，我其實很不喜歡寫漫才。&lt;br&gt;
+B︰突然你在說甚麼呢！沒有人想知道你的事情好嗎？ (っ・Д・) っ&lt;br&gt;
+ A︰好好聽我說！這是和你性命攸關的大事！&lt;br&gt;
+B︰欸欸欸！？為甚麼你的喜好會關乎到我的性命呀！？根本是亳無關聯的事情吧！ Σ(ﾟдﾟ)&lt;br&gt;
+ A︰其實…… 我一向沒有甚麼朋友…… (｡í _ ì｡)&lt;br&gt;
+ B︰這種一看就知道的事情你就不用特地說出來吧！你還是快點說正題吧！這不是關係到我性命的事情嗎！快說呀！&lt;br&gt;
+A︰就是因為沒有甚麼朋友，我才不喜歡寫漫才的……&lt;br&gt;
+B︰這又有甚麼關係呢？你快點說呀，別光吊人胃口！ (#･Д･)ﾉ&lt;br&gt;
+A︰漫才不就是兩個人在一唱一和地對話嗎？如果讓我來寫漫才的話，看起來就像是因為沒有朋友，所以自己一個人在自言自語的可憐蟲了…… 嗚嗚…… 嗚嗚嗚……・º・(˚ ˃̣̣̥⌓˂̣̣̥)・º・˚&lt;br&gt;
+B︰別哭呀！你不是還有我這個朋友嗎？…… 幹…… 幹嘛突然用一副那麼悲痛的表情看着我……？ ಠ_ಠ&lt;br&gt;
+A︰你難道沒意識到，剛才我們在幹甚麼嗎？&lt;br&gt;
+B︰不就是在聊天嗎？不…… 難道…… 是在說漫才嗎？難…… 難道…… (゜ロ゜)&lt;br&gt;
+ A︰沒有錯！剛才我們在說的，就是我寫出來的漫才劇本！而你！就是我為了寫漫才而幻想出來的，幻想朋友！ (｡・̀ᴗ-)✧&lt;br&gt;
+B︰呀呀呀呀！！！我不相信！！！這不是真的！！！&lt;/p&gt;
+</content>
+        <category term="隨筆" />
+        <category term="漫才" />
+        <updated>2023-08-04T14:03:00.000Z</updated>
+    </entry>
+</feed>
