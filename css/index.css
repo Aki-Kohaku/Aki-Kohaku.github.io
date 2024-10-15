@@ -5313,7 +5313,7 @@ span.tags-punctuation {
 }
 .homepage-banner img {
   width: 100%; /* Make the image full width */
-  max-width: 1200px; /* Limit the image width to a reasonable size */
+  max-width: 2000px; /* Limit the image width to a reasonable size */
   height: auto; /* Maintain the image's aspect ratio */
   display: block;
   margin: 0 auto; /* Center the image */
